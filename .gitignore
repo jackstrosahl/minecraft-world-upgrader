@@ -1,3 +1,5 @@
 .idea/**
 jars/**
+worlds/**
 !jars/.KEEP
+!worlds/.KEEP
