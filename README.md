@@ -1,4 +1,4 @@
-#Minecraft World Upgrader
+# Minecraft World Upgrader
 
 For upgrading worlds through multiple versions of Spigot.  Runs
 the minecraft jar of each version in order with `--forceupgrade`.
@@ -12,4 +12,4 @@ to match with `_nether` and `_the_end`).
 
 My use case was `1.12.2`->`1.16.1`.  I put the Spigot jars for
 `1.13.2`,`1.14.4`,`1.15.2`,`1.16.1` in my `jars` directory,
- along with the worlds folders in `worlds`, and ran the script.
+along with the worlds folders in `worlds`, and ran the script.
