@@ -1,4 +1,4 @@
-#Spigot World Upgrader
+# Spigot World Upgrader
 
 For upgrading worlds through multiple versions of Spigot.  Runs
 the spigot jar of each version in order with `--forceupgrade`.
