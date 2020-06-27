@@ -1,10 +1,10 @@
 # Minecraft World Upgrader
 
 For upgrading worlds through multiple versions of Minecraft.  Runs
-the minecraft jar of each version in order with `--forceupgrade`.
+the server jar of each version in order with `--forceupgrade`.
 
 **Usage:**
-1. Put the Spigot jars you want to upgrade through in the `jars`
+1. Put the server jars you want to upgrade through in the `jars`
 folder.  
 2. Put your world folders in `worlds`.  (Spigot does the conversion, so nether and end need
 to match with `_nether` and `_the_end`).
