@@ -1,6 +1,6 @@
 # Minecraft World Upgrader
 
-For upgrading worlds through multiple versions of Spigot.  Runs
+For upgrading worlds through multiple versions of Minecraft.  Runs
 the minecraft jar of each version in order with `--forceupgrade`.
 
 **Usage:**
